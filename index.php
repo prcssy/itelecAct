@@ -11,6 +11,8 @@
 <body>
     <?php
     echo "Hello, mga kababayan";
+
+    echo "Wassyup eeyyeyeyey"
     ?>
 </body>
 
