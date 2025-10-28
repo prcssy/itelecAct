@@ -22,6 +22,7 @@
     echo "<h1>Hello, MAMAMO </h1>";
     ?>
 </center>
+
 </body>
 
 </html>
