@@ -22,7 +22,7 @@
     echo "<h1>Hello, MAMAMO </h1>";
 
 
-     echo "<h1>Hello, Mhie </h1>";
+     echo "<h1>Hello, dhie </h1>";
       ?>
 </center>
 
