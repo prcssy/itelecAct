@@ -12,6 +12,14 @@
     <?php
     echo "Hello, mga kababayan";
     ?>
+
+<br>
+<br>
+<center> 
+    <?php
+    echo "<h1>Hello, MAMAMO </h1>";
+    ?>
+</center>
 </body>
 
 </html>
